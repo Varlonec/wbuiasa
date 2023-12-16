@@ -2,10 +2,10 @@
     "WBUI2": {
         "settings": {
             "OpenButton": 0,
-            "HideIcon": true,
+            "HideIcon": false,
             "HideIconAfter": 600,
             "IconURL": "https://raw.githubusercontent.com/Varlonec/wbuiasa/main/logoWBUI.png",
-            "DisableIconText": false,
+            "DisableIconText": true,
             "IconPosition": 2,
             "IconTextColor": 3,
             "OpenOnStart": true,
